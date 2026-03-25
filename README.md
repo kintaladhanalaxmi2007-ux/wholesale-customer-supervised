@@ -1,27 +1,43 @@
 # wholesale-customer-supervised
 
 📌 Project Overview
+
 This project focuses on analyzing wholesale customer purchasing behavior using supervised machine learning. The goal is to classify customers into two categories:
 HORECA (Hotels, Restaurants, Cafés)
 Retail
 By understanding customer spending patterns, businesses can improve marketing strategies, inventory management, and decision-making.
+
 🎯 Problem Statement
+
 Wholesale businesses deal with different types of customers who show varying purchasing behaviors. Manually identifying customer types is difficult and can lead to:
 Poor marketing strategies
 Inefficient inventory management
 Wrong business decisions
+
 ✅ Objective
+
 Build a machine learning model to:
+
 Analyze customer spending data
+
 Identify patterns
+
 Predict whether a customer is Retail or HORECA
+
 📊 Dataset Information
+
 Source: UCI Machine Learning Repository
+
 Records: 440 customers
+
 Features: Annual spending in different categories
+
 🔗 Dataset Link
+
 https://archive.ics.uci.edu/ml/machine-learning-databases/00292/Wholesale%20customers%20data.csv⁠�
+
 📁 Features Description
+
 Feature
 Description
 Channel
