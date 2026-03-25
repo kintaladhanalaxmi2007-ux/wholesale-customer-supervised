@@ -217,7 +217,3 @@ Inventory planning
 
  Random Forest model achieved the best performance with 94% accuracy.
 
-
-✅ Give GitHub upload steps
-✅ Add project screenshots section
-✅ Create README with badges (more professional look)
